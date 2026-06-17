@@ -1,0 +1,10 @@
+Tip,Segment,Sebep,Train_max,Test_mean
+Genre,Free To Play,Train max < $10M (bos segment),0.000125811,0.0012293220000000001
+Genre,Early Access,Train max < $10M (bos segment),0.002467081,0.010222089
+Genre,Massively Multiplayer,Train max < $10M (bos segment),0.000700485,0.00053676
+Cluster,Cluster_1,Train max < $10M (bos segment),0.001769156,0.0001842975
+Cluster,Cluster_2,Train max < $10M (bos segment),0.000454638,0.0007384395
+Cluster,Cluster_3,Train max < $10M (bos segment),3.224e-05,4.5549e-05
+Cluster,Cluster_4,Train max < $10M (bos segment),3.729e-06,5.0190000000000006e-06
+Cluster,Cluster_7,Train max < $10M (bos segment),0.001227164,0.001104493
+Cluster,Cluster_8,Train max < $10M (bos segment),0.005710175,0.0079733075
